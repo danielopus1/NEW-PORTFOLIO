@@ -1,0 +1,249 @@
+ .body-header {
+    margin-bottom: 2000px;
+    background-color: aliceblue;
+    background-repeat: no-repeat;
+    background-size: 40px;
+    width: -100%;
+    height: 100%;
+    margin-top: -18%;
+    margin-bottom: 18%;
+ }
+
+ .cloud {
+    margin-left: 60%;
+    margin-top: -13%;
+ }
+
+ .head {
+        font-family: "Sofia", sans-serif;
+        padding-top: 28%; 
+        font-size: 2em;
+        font-weight: lighter;
+ }
+
+ .title {   
+    text-align: center;
+    color: rgb(15, 153, 112);
+    font-size: 30px;
+    font-weight: bolder;
+
+    .head {
+        margin: 40px;
+    }
+ }
+
+ .center-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    width: 35%;
+ }
+ 
+ .center {
+    display: block;
+    border-style: none;
+    margin-left: auto;
+    border-radius: 30%;
+    margin-right: auto;
+    margin-top: -12%;
+    width: 50%;
+  }
+
+  .para {
+    margin-top: -2.8%;
+    color: #04AA6D;
+  }
+
+  .items {
+    text-align: center;
+    font-size: 17px;
+    justify-content: stretch;
+  }
+
+  .items2 {
+    text-align: center;
+    font-size: 17px;
+  }
+
+  .items3 {
+    text-align: center;
+    font-size: 17px;
+  }
+
+  #p2 {
+    margin-top: 5%;
+  }
+
+  .computer {
+    margin-left: 21%;
+  }
+
+  .heading {
+    font-size: 1.5rem;
+    text-align: center;
+    margin-top: -15%;
+    padding-left: 5%;
+  }
+
+  .words {
+    text-align: center;
+    margin-top: 0%;
+    padding-left: 21%;
+    font-size: larger;
+  }
+
+  .words2 {
+    text-align: center;
+    margin-top: 0%;
+    padding-left: 5%;
+    font-size: larger;
+  }
+
+  .Teacher {
+    margin-left: 63%;
+  }
+
+  .words3 {
+    text-align: center;
+    margin-top: -17%;
+    margin-right: 43.0%;
+    font-size: larger;
+  }
+
+  .words4 {
+    text-align: left;
+    margin-top: 0%;
+    padding-left: 19.5%;
+    font-size: larger;
+  }
+
+  .words5 {
+    text-align: left;
+    margin-top: 0%;
+    padding-left: 19.5%;
+    font-size: larger;
+  }
+
+  .words6 {
+    text-align: left;
+    margin-top: 0%;
+    padding-left: 19.5%;
+    font-size: larger;
+  }
+  
+  .container {
+    background-color: rgb(209, 207, 207);
+    margin-block: 0;
+    padding-top: 5%;
+    padding-bottom: 14%;
+    justify-items: stretch;
+  }
+
+   h1{
+    color: #006e25;
+    font: 2.8em sans-serif;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .columna {
+    margin-left: 7%;
+    padding-bottom: -20%;
+}
+   
+  .columnb {
+    text-align: center;
+    margin-left: 2.5%;
+    margin-top: -29.4%;
+  }
+
+  .columnc {
+    margin-left: 67.7%;
+    margin-top: -29.5%;
+  }
+
+  .columnd {
+    margin-left: 7%;
+    margin-top: 6%;
+  }
+
+  .columne {
+    text-align: center;
+    margin-left: 2.6%;
+    margin-top: -23.6%;
+  }
+
+  .columnf {
+    margin-left: 67.7%;
+    margin-top: -31%;
+  }
+
+  .contact-info h1{
+    text-align: center;
+    color: aquamarine;
+  } 
+
+  .contact-info h4{
+    text-align: center;
+    font-size: 25px;
+    color: aquamarine;
+  }
+
+  .contact-info h5{
+    text-align: center;
+    font-size: 20px;
+  }
+
+  .button {
+    background-color: aqua;
+    border: none;
+    color: white;
+    font-size: 17px;
+    padding: 1px;
+    justify-content: center;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    margin: 4px;
+    margin-left: 70%;
+  }
+
+  .button:hover {
+    background-color: #16f129c2;
+  }
+
+  .button4 {border-radius: 15px;}
+
+  .links {
+    background-color: aquamarine;
+    margin-block: 0;
+    padding-top: 5%;
+    padding-bottom: 14%;
+    text-align: center;
+  }
+  .links1 {
+    margin-top: 30px;
+    font-size: 25px;
+    color: white;
+  }
+
+  .links2 {
+    margin-top: 30px;
+    font-size: 25px;
+    color: white;
+  }
+
+  .links3 {
+    margin-top: 30px;
+    font-size: 25px;
+    color: white;
+  }
+
+  .dan {
+    text-align: center;
+    margin-top: 10%;
+    bottom: 8px;
+    left: 16px;
+    font-size: 18px;
+  }
