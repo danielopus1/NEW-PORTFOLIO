@@ -10,8 +10,13 @@
  }
 
  .cloud {
-    margin-left: 60%;
-    margin-top: -13%;
+    margin-left: 70%;
+    margin-top: -12%;
+ }
+
+ .cloud2 {
+  margin-left: -70%;
+    margin-top: 16%;
  }
 
  .head {
@@ -197,15 +202,15 @@
 
   .button {
     background-color: aqua;
-    border: none;
+    border: 5px;
     color: white;
     font-size: 17px;
     padding: 1px;
     justify-content: center;
     text-align: center;
     text-decoration: none;
-    display: flex;
-    margin: 4px;
+    display: inline-block;
+    margin: 7px;
     margin-left: 70%;
   }
 
@@ -222,19 +227,19 @@
     padding-bottom: 14%;
     text-align: center;
   }
-  .links1 {
+  .links .links1 {
     margin-top: 30px;
     font-size: 25px;
     color: white;
   }
 
-  .links2 {
+  .links .links2 {
     margin-top: 30px;
     font-size: 25px;
     color: white;
   }
 
-  .links3 {
+  .links .links3 {
     margin-top: 30px;
     font-size: 25px;
     color: white;
