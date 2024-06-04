@@ -205,12 +205,11 @@
     border: 5px;
     color: white;
     font-size: 17px;
-    padding: 1px;
-    justify-content: center;
-    text-align: center;
+    padding-top: 6px;
     text-decoration: none;
     display: inline-block;
-    margin: 7px;
+    margin: 5px;
+    text-align: center;
     margin-left: 70%;
   }
 
@@ -226,23 +225,6 @@
     padding-top: 5%;
     padding-bottom: 14%;
     text-align: center;
-  }
-  .links .links1 {
-    margin-top: 30px;
-    font-size: 25px;
-    color: white;
-  }
-
-  .links .links2 {
-    margin-top: 30px;
-    font-size: 25px;
-    color: white;
-  }
-
-  .links .links3 {
-    margin-top: 30px;
-    font-size: 25px;
-    color: white;
   }
 
   .dan {
