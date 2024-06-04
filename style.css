@@ -154,34 +154,34 @@
 
   .columna {
     margin-left: 7%;
-    padding-bottom: -20%;
+    padding-bottom: -26%;
 }
    
   .columnb {
     text-align: center;
     margin-left: 2.5%;
-    margin-top: -29.4%;
+    margin-top: -30.4%;
   }
 
   .columnc {
     margin-left: 67.7%;
-    margin-top: -29.5%;
+    margin-top: -31%;
   }
 
   .columnd {
-    margin-left: 7%;
+    margin-left: 6.5%;
     margin-top: 6%;
   }
 
   .columne {
     text-align: center;
-    margin-left: 2.6%;
-    margin-top: -23.6%;
+    margin-left: 2.1%;
+    margin-top: -24.6%;
   }
 
   .columnf {
     margin-left: 67.7%;
-    margin-top: -31%;
+    margin-top: -33.7%;
   }
 
   .contact-info h1{
@@ -229,8 +229,7 @@
 
   .dan {
     text-align: center;
-    margin-top: 19%;
-    
+    margin-top: 12%;
     left: 16px;
     font-size: 18px;
   }
