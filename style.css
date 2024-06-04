@@ -62,18 +62,18 @@
 
   .items {
     text-align: center;
-    font-size: 17px;
+    font-size: 20px;
     justify-content: stretch;
   }
 
   .items2 {
     text-align: center;
-    font-size: 17px;
+    font-size: 20px;
   }
 
   .items3 {
     text-align: center;
-    font-size: 17px;
+    font-size: 20px;
   }
 
   #p2 {
@@ -82,6 +82,7 @@
 
   .computer {
     margin-left: 21%;
+    margin-top: 2%;
   }
 
   .heading {
@@ -94,7 +95,7 @@
   .words {
     text-align: center;
     margin-top: 0%;
-    padding-left: 21%;
+    padding-left: 21.8%;
     font-size: larger;
   }
 
@@ -106,34 +107,34 @@
   }
 
   .Teacher {
-    margin-left: 63%;
+    margin-left: 64%;
   }
 
   .words3 {
     text-align: center;
     margin-top: -17%;
-    margin-right: 43.0%;
+    margin-right: 42%;
     font-size: larger;
   }
 
   .words4 {
     text-align: left;
     margin-top: 0%;
-    padding-left: 19.5%;
+    padding-left: 18.9%;
     font-size: larger;
   }
 
   .words5 {
     text-align: left;
     margin-top: 0%;
-    padding-left: 19.5%;
+    padding-left: 18.9%;
     font-size: larger;
   }
 
   .words6 {
     text-align: left;
     margin-top: 0%;
-    padding-left: 19.5%;
+    padding-left: 18.9%;
     font-size: larger;
   }
   
@@ -153,8 +154,8 @@
   }
 
   .columna {
-    margin-left: 7%;
-    padding-bottom: -26%;
+    margin-left: 6.9%;
+    padding-bottom: -26.2%;
 }
    
   .columnb {
@@ -165,7 +166,7 @@
 
   .columnc {
     margin-left: 67.7%;
-    margin-top: -31%;
+    margin-top: -30.8%;
   }
 
   .columnd {
